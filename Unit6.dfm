@@ -1,0 +1,19 @@
+object Form6: TForm6
+  Left = 1093
+  Top = 297
+  Align = alCustom
+  BorderIcons = []
+  BorderStyle = bsNone
+  Caption = #1091#1076#1072#1083#1080#1090#1100
+  ClientHeight = 225
+  ClientWidth = 426
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+end
